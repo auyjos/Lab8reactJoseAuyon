@@ -1,0 +1,18 @@
+h3{
+    font-size: 4em;
+}
+
+.buttonDiag{
+  display: inline-block;
+  font-size: 2em;
+  border: 2px solid #0e0707;
+  padding: 6px 12px;
+  border-radius: 4px;
+  color: #170202;
+}
+
+Dialog {
+    border:10px solid orange;   /** change css properties to match your theme*/
+    background-color: pink !important;
+    color: red;
+    }
